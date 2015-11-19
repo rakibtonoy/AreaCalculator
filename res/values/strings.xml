@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Area Calculator</string>
+
+    <string name="btn_area_text">Calculate Area</string>
+
+    <string name="btn_perimeter_text">Calculate Perimeter</string>
+
+
+</resources>
